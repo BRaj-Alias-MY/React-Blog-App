@@ -17,7 +17,7 @@ I have used a sample api in this example. Day by day functionalities will be add
 
 Note: This is to understand the basic flow how to create a simple blog using ReactJS & NodeJS. I will also include NodeJS restapis along with update by tomorrow. 
 
-The Agenda: 
+# The Agenda: 
 
 1. How to design a React App.
 2. How to work with multiple components.
